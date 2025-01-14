@@ -53,7 +53,7 @@
   &::before {
     content: "";
     position: absolute;
-
+    
     inset: 1px;
     border-radius: inherit;
     background-color: var(--bg-color);
@@ -65,9 +65,10 @@
     
     color: transparent;
     position: relative;
-    background-clip: text;
-    -webkit-background-clip: text;
     background: var(--btn-bg-color);
+    
+    -webkit-background-clip: text;
+    background-clip: text;
   }
 }
 
