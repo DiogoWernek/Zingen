@@ -10,7 +10,7 @@ Zingen is a fictional music app designed to explore responsive design. This proj
 
 **Technologies Used:**
 
-- *HTML, CSS, and JavaScript.*
+- *HTML, CSS.*
 
 - *Responsive design principles.*
 
