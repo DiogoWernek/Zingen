@@ -10,22 +10,23 @@
   }
 
   & p {
+    margin-top: .5rem;
+    
     font: var(--fw-md) var(--fs-lg)/1.4 var(--ff-sans);
     color: var(--text-color-secondary);
-    margin-top: 1rem;
-    margin-top: .5rem;
   }
 
   & .buttons {
-    justify-content: center;
     margin-top: 2rem;
+    justify-content: center;
   }
 }
 
 @media (width >= 80em) {
   #hero {
-    background: url(../assets/bg-hero-background.svg) no-repeat bottom center/contain;
     padding-bottom: 15rem;
+    
+    background: url(../assets/bg-hero-background.svg) no-repeat bottom center/contain;
 
     & img[src*="music"] {
       width: 25.75rem;

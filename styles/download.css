@@ -1,13 +1,13 @@
 #download {
   .card {
-    padding: 3rem 1.5rem 20rem;
     position: relative;
+    padding: 3rem 1.5rem 20rem;
 
     & > img {
-      width: 14.5rem;
-      position: absolute;
       bottom: 0;
+      width: 14.5rem;
       right: -1.5rem;
+      position: absolute;
     }
   }
 
