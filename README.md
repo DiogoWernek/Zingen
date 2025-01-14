@@ -4,7 +4,7 @@ Zingen is a fictional music app designed to explore responsive design. This proj
 
 **Key Features:**
 
-- *Fully responsive layout for mobile, tablet, and desktop.*
+- *Fully responsive layout for mobile and desktop.*
 
 - *Clean and modern UI design.*
 
